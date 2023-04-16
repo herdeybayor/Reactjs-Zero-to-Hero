@@ -20,9 +20,9 @@ React is built on top of JavaScript, so it is essential to have a good understan
 <details>
    <summary>Resources</summary>
 
-   - FreeCodeCamp: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
-   - Codecademy: https://www.codecademy.com/learn/introduction-to-javascript
-   - W3Schools: https://www.w3schools.com/js/default.asp
+-   FreeCodeCamp: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+-   Codecademy: https://www.codecademy.com/learn/introduction-to-javascript
+-   W3Schools: https://www.w3schools.com/js/default.asp
 
 </details>
 
@@ -33,9 +33,9 @@ React is all about building reusable UI components. You need to learn how to cre
 <details>
    <summary>Resources</summary>
 
-   - React official documentation: https://react.dev/learn
-   - FreeCodeCamp: https://www.freecodecamp.org/news/react-components-explained/
-   - Udemy: https://www.udemy.com/topic/react-component/
+-   React official documentation: https://react.dev/learn
+-   FreeCodeCamp: https://www.freecodecamp.org/news/react-components-explained/
+-   Udemy: https://www.udemy.com/topic/react-component/
 
 </details>
 
@@ -46,9 +46,9 @@ JSX is a syntax extension for JavaScript that allows you to write HTML-like code
 <details>
    <summary>Resources</summary>
 
-   - React official documentation: https://reactjs.org/docs/introducing-jsx.html
-   - FreeCodeCamp: https://www.freecodecamp.org/news/react-jsx-explained/
-   - Codecademy: https://www.codecademy.com/learn/react-101/modules/react-jsx-u/cheatsheet
+-   React official documentation: https://reactjs.org/docs/introducing-jsx.html
+-   FreeCodeCamp: https://www.freecodecamp.org/news/react-jsx-explained/
+-   Codecademy: https://www.codecademy.com/learn/react-101/modules/react-jsx-u/cheatsheet
 
    </details>
 
@@ -59,9 +59,9 @@ React components can have two types of data: state and props. You should learn h
 <details>
    <summary>Resources</summary>
 
-   - React official documentation: https://reactjs.org/docs/state-and-lifecycle.html
-   - FreeCodeCamp: https://www.freecodecamp.org/news/react-state-explained/
-   - Scrimba: https://scrimba.com/learn/reactprops
+-   React official documentation: https://reactjs.org/docs/state-and-lifecycle.html
+-   FreeCodeCamp: https://www.freecodecamp.org/news/react-state-explained/
+-   Scrimba: https://scrimba.com/learn/reactprops
 
  </details>
 
@@ -72,9 +72,9 @@ React Router is a library that allows you to handle navigation in a single-page 
  <details>
    <summary>Resources</summary>
 
-   - React Router official documentation: https://reactrouter.com/web/guides/quick-start
-   - FreeCodeCamp: https://www.freecodecamp.org/news/react-router-tutorial/
-   - Pluralsight: https://www.pluralsight.com/courses/react-router-redux
+-   React Router official documentation: https://reactrouter.com/web/guides/quick-start
+-   FreeCodeCamp: https://www.freecodecamp.org/news/react-router-tutorial/
+-   Pluralsight: https://www.pluralsight.com/courses/react-router-redux
 
  </details>
 
@@ -85,9 +85,9 @@ Redux is a state management library that can help you manage complex state in yo
    <details>
    <summary>Resources</summary>
 
-   - Redux official documentation: https://redux.js.org/introduction/getting-started
-   - FreeCodeCamp: https://www.freecodecamp.org/news/what-is-redux-and-how-to-use-it-in-react-app/
-   - Udemy: https://www.udemy.com/topic/redux/
+-   Redux official documentation: https://redux.js.org/introduction/getting-started
+-   FreeCodeCamp: https://www.freecodecamp.org/news/what-is-redux-and-how-to-use-it-in-react-app/
+-   Udemy: https://www.udemy.com/topic/redux/
 
    </details>
 
@@ -98,9 +98,9 @@ React Hooks are a new feature in React that allows you to use state and other Re
 <details>
    <summary>Resources</summary>
 
-   - React official documentation: https://reactjs.org/docs/hooks-intro.html
-   - FreeCodeCamp: https://www.freecodecamp.org/news/react-hooks-tutorial-for-beginners/
-   - Scrimba: https://scrimba.com/learn/reacthooks
+-   React official documentation: https://reactjs.org/docs/hooks-intro.html
+-   FreeCodeCamp: https://www.freecodecamp.org/news/react-hooks-tutorial-for-beginners/
+-   Scrimba: https://scrimba.com/learn/reacthooks
 
    </details>
 
@@ -111,10 +111,10 @@ Testing is an important part of building any application. You should learn how t
 <details>
    <summary>Resources</summary>
 
-   - Jest official documentation: https://jestjs.io/docs/getting-started
-   - Enzyme official documentation: https://enzymejs.github.io/enzyme/docs/guid
-   - FreeCodeCamp: https://www.freecodecamp.org/news/testing-react-hooks
-   
+-   Jest official documentation: https://jestjs.io/docs/getting-started
+-   Enzyme official documentation: https://enzymejs.github.io/enzyme/docs/guid
+-   FreeCodeCamp: https://www.freecodecamp.org/news/testing-react-hooks
+
 </details>
 
 Remember, the best way to learn React is by building real-world applications. So, start small, and gradually build up your skills as you work on more complex projects.
