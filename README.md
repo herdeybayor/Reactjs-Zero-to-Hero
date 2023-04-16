@@ -33,7 +33,7 @@ React is all about building reusable UI components. You need to learn how to cre
 <details>
    <summary>Resources</summary>
 
-   - React official documentation: https://reactjs.org/docs/components-and-props.html
+   - React official documentation: https://react.dev/learn
    - FreeCodeCamp: https://www.freecodecamp.org/news/react-components-explained/
    - Udemy: https://www.udemy.com/topic/react-component/
 
