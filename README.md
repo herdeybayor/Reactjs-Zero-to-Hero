@@ -4,14 +4,14 @@
 
 Learning React can be a fun and rewarding experience, but it can also be overwhelming at first. In this guide, we will provide an overview of the key concepts you should focus on when learning React, including:
 
-1. 🔥 [JavaScript Fundamentals](#javascript-fundamentals)
-2. 🎨 [React Components](#react-components)
-3. 💻 [JSX](#jsx)
-4. 🎁 [State and Props](#state-and-props)
-5. 🛣️ [React Router](#react-router)
-6. 📦 [Redux](#redux)
-7. ⚛️ [React Hooks](#react-hooks)
-8. 🧪 [Testing](#testing)
+1. 🔥 [JavaScript Fundamentals](#1--javascript-fundamentals)
+2. 🎨 [React Components](#2--react-components)
+3. 💻 [JSX](#3--jsx)
+4. 🎁 [State and Props](#4--state-and-props)
+5. 🛣️ [React Router](#5--react-router)
+6. 📦 [Redux](#6--redux)
+7. ⚛️ [React Hooks](#7--react-hooks)
+8. 🧪 [Testing](#8--testing)
 
 ## 1. 🔥 JavaScript Fundamentals
 
